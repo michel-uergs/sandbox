@@ -1,3 +1,4 @@
 Joao Leonardo Fragoso joao-fragoso@uergs.edu.br
 Dummy User dummy@cnn.com
+Dummy2 User2 dummy22@cnn.com
 Dummy3 User3 dummy33@cnn.com
